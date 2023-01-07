@@ -1,0 +1,34 @@
+{
+  "display": {
+    "title": "No1s1",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "Lbster",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "-124,-149"
+    ],
+    "base": "-124,-149"
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "8be18752-164f-4401-b42c-faa952ddc89b",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 1,
+      "cols": 1
+    }
+  }
+}
